@@ -3,14 +3,14 @@
     <channel>
         <title>Count Tongula's Eye Break</title>
         <item>
-            <title>Version 0.14.3</title>
-            <pubDate>Mon, 25 May 2026 13:03:05 -0400</pubDate>
-            <sparkle:version>0.14.3</sparkle:version>
-            <sparkle:shortVersionString>0.14.3</sparkle:shortVersionString>
+            <title>Version 0.14.4</title>
+            <pubDate>Mon, 01 Jun 2026 21:50:47 -0400</pubDate>
+            <sparkle:version>0.14.4</sparkle:version>
+            <sparkle:shortVersionString>0.14.4</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/alextongme/count-tongulas-eye-break-releases/releases/download/v0.14.3/CountTongulasEyeBreak.dmg"
-                sparkle:edSignature="WMnOOLuDbKbM491o2FO8Ze+w152P1KkaJZsgbau6W61UtE42ZELbTCi519yR8OJH2EzyL+CAhxYhAOFnKq8+Dw=="
-                length="11157529"
+                url="https://github.com/alextongme/count-tongulas-eye-break-releases/releases/download/v0.14.4/CountTongulasEyeBreak.dmg"
+                sparkle:edSignature="jV0GNl2XOszd0A5Gt4dYRgTlOhZtPlA+kdaDyufr1GtJLN+PRqpq8yfU58yAfzsHCFsNKLYsyg7bYuuXe7+OCA=="
+                length="11168036"
                 type="application/octet-stream"
             />
         </item>
